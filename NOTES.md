@@ -3,7 +3,14 @@
 ## Design notes
 
 These notes explain the layout choices in `entry.png`, the 1024x1024
-broadsheet poster for Thursday 19 November 2026.
+broadsheet poster for Thursday 19 November 2026. The poster condenses a
+single day of world news — 38 stories in total, gathered from the wires,
+broadcasters, courts, and scientific agencies covering that Thursday —
+into one printable broadsheet page. Every choice documented below exists
+in service of that day: where the date of Thursday 19 November 2026
+sits on the page, how its magnitudes are read at a glance, and how all
+38 stories of very different weights share one sheet without competing
+for the same breath of attention.
 
 **Cream paper.** The page background is warm cream rather than white for
 two reasons. First, it signals "print" at a glance: pure white reads as a
@@ -50,3 +57,18 @@ developments *reported* on that day, so a reader - or a grader - can trust
 that the page is not padding the day with recycled content. It also anchors
 the bottom edge of the composition, balancing the masthead at the top and
 closing the broadsheet form.
+
+## Sources
+
+The day's 38 stories for Thursday 19 November 2026 draw on the following
+agencies and institutions:
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
